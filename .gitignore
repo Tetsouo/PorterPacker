@@ -1,9 +1,0 @@
-# Runtime artifacts
-debug.log
-
-# Editor / OS
-*.bak
-*.pre-refactor
-*.swp
-.DS_Store
-Thumbs.db
