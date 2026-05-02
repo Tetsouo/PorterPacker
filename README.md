@@ -73,4 +73,10 @@ Bag IDs: `0`=inventory, `5`=satchel, `6`=sack, `7`=case,
 
 ## Credits
 
-Originally by Ivaar, modified by Gimlic & Siyual, refactored by Tetsouo.
+Refactor by **Tetsouo** — full rewrite (modular `lib/` split, per-character
+data folders, bulk pack/unpack, status panel, debug logger, defensive
+inventory ops). Current maintainer.
+
+Original packet handling (porter dialog state machine, trade injection,
+slip parsing) by **Ivaar**, with subsequent modifications by **Gimlic &
+Siyual** before this refactor.
